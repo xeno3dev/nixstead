@@ -1,0 +1,8 @@
+name = "nixstead"
+editor = "code --new-window"
+
+[env]
+
+[hooks]
+on_open = []
+on_close = []

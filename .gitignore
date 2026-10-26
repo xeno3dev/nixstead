@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+node_modules/
+.pnpm-store/
+dist/
+.output/
+.tanstack/
+coverage/
+bin/
+result
+result-*
+*.qcow2
+*.img
+*.iso
+.DS_Store
